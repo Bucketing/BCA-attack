@@ -1,0 +1,1 @@
+This repository contains the core implementation of the Bucketing Computational Analysis (BCA) and some public white-box cryptographic implementations and the coressponding scripts to perform the BCA.
