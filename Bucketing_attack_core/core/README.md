@@ -1,1 +1,0 @@
-This repository contains the core implementation of the Bucketing Computational Analysis (BCA) for DES and AES.
